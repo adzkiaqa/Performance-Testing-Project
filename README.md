@@ -38,3 +38,6 @@ Mini project ini bertujuan untuk menguji performa API menggunakan Apache JMeter.
    ```sh
    git clone https://github.com/adzkiaqa/Performance-Testing-Project.git
    cd Performance-Testing-Project
+2. Buka JMeter dan load file api-load-test.jmx atau api-stress-test.jmx.
+3. Jalankan testing dan analisis hasilnya.
+
